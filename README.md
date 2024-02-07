@@ -7,5 +7,5 @@ This Sudoku board was developed using `BackTracking algorithm`, which is a probl
 ### Demonstration
 The algorithm performs almost with the speed of a blink of an eye, when running the `solver.py` script. To enhance the visualization, a graphical user interface (GUI) has been developed `solver.py` (both files on the `src` folder). The GUI provides a clear demonstration of the algorithm's functionality, offering insights into its processes. For a more comprehensive understanding, next is present a video showcasing the GUI in action.
 
-<video src="img/demo.mov" controls></video>
+https://github.com/joaoafonso02/sudoku/assets/74464325/401c5d66-0df0-4911-adc3-a8b1af269bdb
 
